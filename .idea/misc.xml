@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Projetos/Words/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Projetos/Words/app/src/main/res/layout/activity_detail.xml" value="0.25" />
         <entry key="..\:/Projetos/Words/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Projetos/Words/app/src/main/res/layout/item_view.xml" value="0.1" />
+        <entry key="..\:/Projetos/Words/app/src/main/res/layout/item_view.xml" value="0.25" />
       </map>
     </option>
   </component>
